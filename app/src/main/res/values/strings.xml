@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Pertemuan4</string>
+    <string name="profile_info_data">View Profile Information</string>
+    <string name="image_profile">image profile</string>
+    <string name="handy">Udin</string>
+    <string name="opinion">Gambut</string>
+    <string name="_0300_1234567">082167815980</string>
+    <string name="handyopinion_gmail_com">udingambut@gmail.com</string>
+    <string name="button_1">Go To Other Activity</string>
+    <string name="button_2">Same but with data</string>
+    <string name="button_3">Call user</string>
+    <string name="this_is_other_activity">hello, you just move</string>
+
+    <string name="content_text">Berdiri pada tahun 1985 diatas lahan seluas 8000 meter persegi, bangunan 2 lantai yang dikenal sebagai “permata bersejarah di Medan” merupakan landmark bersejarah yang terdaftar sebagai bangunan warisan budaya dan museum. Tjong A Fie Mansion memiliki aksen Peranakan yang kental dengan pengaruh arsitektur Melayu dan China. Mansion ini dibangun dengan konsep feng-shui dimana kamar-kamar berada di empat sisi struktur dan mengelilingi halaman terbuka, menandakan “Sumur Surga”</string>
+    <string name="content_specs_display">105 Jl. Jend. A. Yani Medan 20111</string>
+    <string name="content_specs_size">Senin - Minggu 09.00 - 17.00 WIB
+    Close entry by 16.30 WIB
+    Tutup pada hari raya besar/nasional.
+    </string>
+    <string name="content_specs_battery">Phone (+62) 8116130388
+	info@tjongafiemansion.org
+	instagram.com/museumtjongafiemansion
+    </string>
+    <string name="stock">Kota Medan</string>
+    <string name="specification">General Info</string>
+    <string name="display">Location</string>
+    <string name="size">Operational Hour</string>
+    <string name="battery">Contacts</string>
+    <string name="dummy_value">Tjong A Fie Mansion</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="halo_halo">halo halo</string>
+</resources>
